@@ -11,7 +11,7 @@ data/logs/
 data/cache/
 data/sessions/
 data/tmp/
-temp/
+
 
 #Doctrine 8
 data/DoctrineORMModule/Proxy/
