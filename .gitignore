@@ -15,7 +15,6 @@ data/tmp/
 
 #Doctrine 8
 data/DoctrineORMModule/Proxy/
-data/DoctrineORMModule/cache/
 
 # Legacy ZF1
 demos/
