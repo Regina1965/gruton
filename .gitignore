@@ -13,7 +13,7 @@ data/sessions/
 data/tmp/
 
 
-#Doctrine 8
+#Doctrine 825
 data/DoctrineORMModule/Proxy/
 
 # Legacy ZF1
